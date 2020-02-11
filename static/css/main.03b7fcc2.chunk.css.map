@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css","Article.css"],"names":[],"mappings":"AAAA,EACE,qBACF,CAEA,KACE,4BACF,CCNA,SACE,WAAY,CACZ,aACF","file":"main.03b7fcc2.chunk.css","sourcesContent":["* {\n  box-sizing: border-box;\n}\n\nbody {\n  font-family: Arial, sans-serif;\n}\n",".article {\n  width: 960px;\n  margin: 0 auto;\n}\n"]}
